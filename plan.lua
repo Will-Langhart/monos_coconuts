@@ -17,4 +17,6 @@ Post-Deployment Roadmap:
   ~ ig + tiktok -----> website
   ~ shirts and other complimentary products ----> website 
   ~ woxo custom embed ----> website 
-  ~
+  ~ static files ----> website 
+  ~ POS -----> website 
+
