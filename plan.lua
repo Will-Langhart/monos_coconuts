@@ -1,17 +1,20 @@
-Costs:
-  ~ wix website purchase domain + plan on me ($39/month for 12 months for domain name and server as well as mainenance and building)
-  ~ deployment labor on Mono ($380 | 8 hours at $50/hour)
-  ~ stripe customer payment plan on Mono ($400 + $39/month)
+Project Monos Coconuts
+Started April 9th, 3:00 p.m.
+7-24 hour build and deployment
 
-====$400 building labor and software assets + $39/month for server hosting and domain name whenever ready to launch site
+Building Costs Roadmap:
+  ~ wix website purchase domain + plan ($39/month for 12 months for domain name and server as well as mainenance and building)
+  ~ deployment labor ($350 | 8 hours at $50/hour) or ($700 | 24 hours) saving $60
+  ~ stripe customer payment plan on Mono ($350 or $700 + $39/month)
+=====$350 or $700 building labor and software assets + $39/month for server hosting and domain name whenever ready to launch site 
+==$818 or $1168 grand total
 
-Dev Ops Blueprint:
+Post-Deployment Roadmap:
   ~ google maps mobile location
-  ~ photos in website 
-  ~ number in website 
-  ~ ig + tiktok -----> integrated w/website
-  ~ shirts and other complimentary products for vwebsite 
+  ~ static location of coconuts ------> website
+  ~ photos ------> website
+  ~ phone# ------> website
+  ~ ig + tiktok -----> website
+  ~ shirts and other complimentary products ----> website 
   ~ woxo custom embed ----> website 
-
-CI/CD Post Deployment Blueprint:
   ~
