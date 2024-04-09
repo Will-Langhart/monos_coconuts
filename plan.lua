@@ -1,6 +1,6 @@
-----Project Monos Coconuts----
-----Started April 9th, 3:00 p.m.----
-----7-24 hour build and deployment----
+Project Monos Coconuts
+Started April 9th, 3:00 p.m.
+7-24 hour build and deployment
 
 Building Costs Roadmap:
   ~ wix website purchase domain + plan ($39/month for 12 months for domain name and server as well as mainenance and building)
